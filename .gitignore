@@ -1,0 +1,11 @@
+# 本地泄露词表（含真实姓名/项目名/域名），不进仓库
+.leak-terms.local
+
+# 系统
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
